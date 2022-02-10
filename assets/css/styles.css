@@ -635,6 +635,7 @@ img{
 }
 
 .project__img{
+    border-radius: .5rem;
     width: 300px;
     justify-self: center;
 }
